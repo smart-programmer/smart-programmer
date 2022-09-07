@@ -119,9 +119,11 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=smart-programmer&show_icons=true&count_private=true&hide_border=true&count_private=true&include_all_commits=true&theme=codeSTACKr" align="center" width="50%" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=smart-programmer&show_icons=true&count_private=true&hide_border=true&count_private=true&include_all_commits=true&theme=codeSTACKr" align="center" width="36%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-programmer&hide_border=true&layout=compact&theme=codeSTACKr&count_private=true&include_all_commits=true" align="center" width="50%" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-programmer&hide_border=true&layout=compact&theme=codeSTACKr&count_private=true&include_all_commits=true" align="center" width="30%" /> 
+</div>  
 
 
 
