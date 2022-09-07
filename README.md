@@ -119,11 +119,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=smart-programmer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=smart-programmer&show_icons=true&count_private=true&hide_border=true&count_private=true&include_all_commits=true&theme=codeSTACKr" align="center" />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-programmer&hide_border=true&layout=compact" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-programmer&hide_border=true&layout=compact&theme=codeSTACKr&count_private=true&include_all_commits=true" align="center" /> 
 
-<br/>  
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=smart-programmer&&style=flat-square" align="center" />
