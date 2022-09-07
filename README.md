@@ -20,7 +20,7 @@
 
 <br/>  
 
-<div align="center">
+
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
 
@@ -91,8 +91,7 @@
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-</div>  
+</td></tr></table>   
 
 <br/>  
 
