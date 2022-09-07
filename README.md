@@ -20,11 +20,6 @@
 
 <br/>  
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
