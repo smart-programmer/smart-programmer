@@ -128,7 +128,7 @@
 <img src="https://raw.githubusercontent.com/smart-programmer/-github-stats/master/generated/overview.svg#gh-dark-mode-only" align="center" width="49%" />
  
 <img src="https://raw.githubusercontent.com/smart-programmer/-github-stats/master/generated/languages.svg#gh-dark-mode-only" align="center" width="49%" />
-
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=smart-programmer&show_icons=true&count_private=true&hide_border=true&count_private=true&include_all_commits=true&theme=codeSTACKr" align="center" width="62%" />
 
 
